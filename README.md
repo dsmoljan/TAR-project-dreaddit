@@ -18,4 +18,4 @@ We managed to improve it through three modifications:
 
 ![System](https://github.com/fsentin/dreaddit/blob/main/system.png)
 
-Full paper: https://github.com/dsmoljan/TAR-project-dreaddit/blob/main/TAR.pdf
+Full paper: [https://github.com/dsmoljan/TAR-project-dreaddit/blob/main/TAR.pdf](https://github.com/dsmoljan/TAR-project-dreaddit/blob/main/Paper/TAR.pdf)https://github.com/dsmoljan/TAR-project-dreaddit/blob/main/Paper/TAR.pdf
